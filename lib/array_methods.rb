@@ -1,5 +1,6 @@
-def find_element_index(array, value_to_find)
-  # Add your solution here
+def find_element_index(sharks, 2 )
+  sharks = ["Hammerhead", "Great White", "Tiger", "Whale"]
+sharks.include? "Tiger"
 end
 
 def find_max_value(array)
